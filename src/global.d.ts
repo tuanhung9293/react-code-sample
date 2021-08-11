@@ -1,0 +1,1 @@
+declare type TTheme = 'theme-default' | 'theme-red' | 'theme-yellow';
